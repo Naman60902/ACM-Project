@@ -330,5 +330,8 @@ vidcap.release()
 video.release()
 cv2.destroyAllWindows()
 ```
-This is how I obtained the Coloured ascii encoded video. I have put the frames, output folder, input video and output video, all in the following folder :
-[Ascii](https://github.com/Naman60902/ACM-Project/tree/main/Ascii) folder
+This is how I obtained the Coloured ascii encoded video. I have put the frames, output folder, input video and output video, all in the [Video-ascii](https://github.com/Naman60902/ACM-Project/tree/main/Video-ascii) folder.
+# Conclusion
+By this project, I got used to PIL, opencv, OS, numpy. Also, it was very interesting to play with images and get unique outputs.I did this project on google collab. One thing with which I struggled in this project was the speed with which the code executed. It was slow. And if I had to experiment with large no. of frames it took large amount of time which made the process quite cumbersome. Nonetheless, this was a great project in the sense as it tested my understanding of python extensively and gave me the opportunity to understand the underlying processes of python which I had not known if I had not done this project.
+# References 
+https://stackoverflow.com ( It was a lifesaver for most of the times )
