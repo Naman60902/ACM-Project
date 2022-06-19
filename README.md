@@ -121,7 +121,7 @@ elif bg == "black":
     out_image = out_image.crop(cropped_image)
     out_image.save("output_b.jpg")
 ```
-This is how I obtained the uncoloured ascii encoded image. I have procured the images with both black and white background which I have put in 
+This is how I obtained the uncoloured ascii encoded image. I have procured the images with both black and white background which I have put in  [Ascii](https://github.com/Naman60902/ACM-Project/tree/main/Ascii) folder
 # Coloured_ascii
 For the python file, refer here : [Coloured_ascii.py](https://github.com/Naman60902/ACM-Project/blob/main/Coloured_ascii.py)
 
