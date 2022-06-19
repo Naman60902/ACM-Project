@@ -18,9 +18,9 @@ In this project, I have added this concept of ascii art generation to not only o
 # Let's Start 
 Go to:
 
-[Ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#asciipy)
+[Ascii](https://github.com/Naman60902/ACM-Project#ascii)
 
-[Coloured_ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#coloured_asciipy)
+[Coloured_ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#coloured_ascii)
 
 [Video-ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#video-asciipy)
 
