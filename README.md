@@ -16,11 +16,21 @@ The third image is an ascii encoded image with a black background.
 In this project, I have added this concept of ascii art generation to not only on images but also to videos.
 
 # Let's Start 
-https://github.com/Naman60902/ACM-Project/blob/main/Ascii.py
-https://github.com/Naman60902/ACM-Project/blob/main/Coloured_ascii.py
+Go to:
+[Ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#asciipy)
 
+[Coloured_ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#coloured_asciipy)
 
+[Video-ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#video-asciipy)
 
+# Ascii
+For the python file, refer here : [Ascii.py](https://github.com/Naman60902/ACM-Project/blob/main/Ascii.py)
+
+# Coloured_ascii
+For the python file, refer here : [Coloured_ascii.py](https://github.com/Naman60902/ACM-Project/blob/main/Coloured_ascii.py)
+
+# Video-ascii
+For the python file, refer here : [Video-ascii.py](https://github.com/Naman60902/ACM-Project/blob/main/Video-ascii.py)
 
 
 
