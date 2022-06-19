@@ -45,9 +45,6 @@ while(vidcap.isOpened()):
       # Reading Input Image
       image = cv2.imread("frame"+str(count)+".jpg")
 
-      # Converting Color Image to Grayscale
-      #image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-
       # Extracting height and width from Image
       height, width, _ = image.shape
 
