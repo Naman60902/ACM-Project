@@ -20,9 +20,9 @@ Go to:
 
 [Ascii](https://github.com/Naman60902/ACM-Project#ascii)
 
-[Coloured_ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#coloured_ascii)
+[Coloured_ascii](https://github.com/Naman60902/ACM-Project#coloured_ascii)
 
-[Video-ascii](https://github.com/Naman60902/ACM-Project/edit/main/README.md#video-asciipy)
+[Video-ascii](https://github.com/Naman60902/ACM-Project#video-ascii)
 
 # Ascii
 For the python file, refer here : [Ascii.py](https://github.com/Naman60902/ACM-Project/blob/main/Ascii.py)
